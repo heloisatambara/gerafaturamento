@@ -2,3 +2,5 @@
 build
 old
 dist/gerafaturamento/_internal
+dist/gerafaturamento/pool_de_horas.csv
+dist/gerafaturamento/Clockify.csv

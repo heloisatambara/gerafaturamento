@@ -1,0 +1,6 @@
+\.venv\Scripts\activate
+pyinstaller gerafaturamento.py
+
+put Clockify.csv and pool_de_horas.csv in gerafaturamento.exe directory
+
+run gerafaturamento.exe
