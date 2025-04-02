@@ -1,7 +1,0 @@
-           Cliente Total de horas Fora de horário Horário Comercial
-0     ONCOCLÍNICAS           0:07            0:00              0:07
-1           LOG-IN           0:00            0:00              0:00
-2         INTERALL           0:00            0:00              0:00
-3     SÃO DOMINGOS           0:00            0:00              0:00
-4  SANTA CASA - BA           1:19            0:00              1:19
-5   PUC - Campinas           0:00            0:00              0:00
